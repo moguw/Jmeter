@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-#test qweqweqwe qwewe123234
+#test 123456789
 require './api/graphql/graph'
 
 # this is a user graph api class
